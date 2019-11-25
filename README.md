@@ -1,5 +1,5 @@
 # ExportFBX_Tool
-2019-11-24: Update for Shanghai Studio, Now you don't need to open Unreal. And Automation will export it
+2019-11-24: Update for Epic Shanghai Studio, Now you don't need to open Unreal. And Automation will export it
             Please update your unreal to 4.23 at least.
             If you are not in Shanghai Studio. Please edit script by yourself.
             For example:  in EGC_Export.ms
