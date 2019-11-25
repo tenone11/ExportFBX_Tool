@@ -4,5 +4,5 @@
             If you are not in Shanghai Studio. Please edit script by yourself.
             For example:  in EGC_Export.ms
             
-            			DOSCommand "Main_Folder\\Engine\\Binaries\\Win64\\UE4Editor-Cmd.exe \"Main_Folder\\FortniteGame\\ForEGC\\EGC_Export.uproject\" -run=pythonscript -script=\"D:\\EGC_Plugins\\EGC_AutoImEx.py\"">>>
-                  DOSCommand "Main_Folder\\Engine\\Binaries\\Win64\\UE4Editor-Cmd.exe -run=pythonscript -script=\"D:\\EGC_Plugins\\EGC_AutoImEx.py\""
+            DOSCommand "Main_Folder\\Engine\\Binaries\\Win64\\UE4Editor-Cmd.exe \"Main_Folder\\FortniteGame\\ForEGC\\EGC_Export.uproject\" -run=pythonscript -script=\"D:\\EGC_Plugins\\EGC_AutoImEx.py\"">>>
+            DOSCommand "Main_Folder\\Engine\\Binaries\\Win64\\UE4Editor-Cmd.exe -run=pythonscript -script=\"D:\\EGC_Plugins\\EGC_AutoImEx.py\""
