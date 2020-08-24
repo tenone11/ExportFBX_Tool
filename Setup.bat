@@ -1,1 +1,1 @@
-"U:\colossus-live\_Colossus\Python\Python27\python.exe" %~dp0Setup_Backup.py
+U:\colossus-live\_Colossus\Python\Python27\python.exe Setup.py

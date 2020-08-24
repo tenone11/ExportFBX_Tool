@@ -22,6 +22,7 @@ def staticmesh_for_import_task_option():
     options.static_mesh_import_data.normal_import_method = nomral_method
     options.static_mesh_import_data.combine_meshes = False
     options.static_mesh_import_data.auto_generate_collision = False
+    options.static_mesh_import_data.compute_weighted_normals = False
     return options
 
 
