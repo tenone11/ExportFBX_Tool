@@ -1,5 +1,6 @@
 # ExportFBX_Tool
 2020-8-24: Update new features about check Unreal staticmesh vertices in DCC software 
+
 2019-11-24: Update for Epic Shanghai Studio, Now you don't need to open Unreal. And Automation will export it
             Please update your unreal to 4.23 at least.
             If you are not in Shanghai Studio. Please edit script by yourself.
